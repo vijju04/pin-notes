@@ -1,4 +1,4 @@
-# Pin Your Note - Kalyani Reddy
+# Pin Your Note - vizaya shri reddi
 # Import Necessary modules
 import sqlite3 as sql
 from tkinter import *
